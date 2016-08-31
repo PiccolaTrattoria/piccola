@@ -173,6 +173,13 @@ span.comic-text{
 	font-family: 'Lora', serif;
 }
 
+span.comic-text2{
+	font-size:80px;
+	line-height:60px;
+	color:#910400;
+	font-family: 'Lora', serif;
+}
+
 p.section-subtitle{
 	font-size:16px!important;
 }
