@@ -1229,7 +1229,7 @@ ul.footer-list li a:hover{
 .menu-hero-section{
 	width:100%;
 	position:relative;
-	background: url("{{ '/images/food_1_1920x1280.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
+	background: url("{{ '/images/mascarpone.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
@@ -1886,4 +1886,16 @@ p.contact_success_box{
 		display:none;
 	}
 	
+}
+
+/*Added by Angello tparrows*/
+.tparrows {
+background: transparent !important;
+color: transparent;
+background-color: transparent;
+}
+ 
+.tparrows.default:after {
+color: transparent;
+background-color: transparent;
 }

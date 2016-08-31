@@ -8041,7 +8041,7 @@ ul.footer-list li a:hover{
 .menu-hero-section{
 	width:100%;
 	position:relative;
-	background: url("/piccola/images/food_1_1920x1280.jpg") 50% top no-repeat fixed;
+	background: url("/piccola/images/mascarpone.jpg") 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
@@ -8699,6 +8699,19 @@ p.contact_success_box{
 	}
 	
 }
+
+/*Added by Angello tparrows*/
+.tparrows {
+background: transparent !important;
+color: transparent;
+background-color: transparent;
+}
+ 
+.tparrows.default:after {
+color: transparent;
+background-color: transparent;
+}
+
 @charset "UTF-8";
 
 
