@@ -6982,7 +6982,7 @@ span.comic-text{
 	font-size:80px;
 	line-height:60px;
 	color:#F2B410;
-	font-family: 'Tangerine', cursive;
+	font-family: 'Lora', serif;
 }
 
 p.section-subtitle{
@@ -7070,6 +7070,10 @@ iframe{
 
 .section-white{
 	background-color:#fff;
+	padding:90px 0;
+}
+.section-piccola-yellow{
+	background-color:#f8bf2c;
 	padding:90px 0;
 }
 
@@ -8050,7 +8054,7 @@ ul.footer-list li a:hover{
 .about-hero-section{
 	width:100%;
 	position:relative;
-	background: url("/piccola/images/1.jpg") 50% top no-repeat fixed;
+	background: url("/piccola/images/storefront-background.jpg") 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
