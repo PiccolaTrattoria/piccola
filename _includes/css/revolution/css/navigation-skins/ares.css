@@ -102,7 +102,7 @@ border-radius:30px 0px 0px 30px;
 .ares.tp-bullets {
 }
 .ares.tp-bullets:before {
-	content:" ";
+	content:"";
 	position:absolute;
 	width:100%;
 	height:100%;
@@ -112,28 +112,29 @@ border-radius:30px 0px 0px 30px;
 	box-sizing:content-box;
 }
 .ares .tp-bullet {
-	width:13px;
-	height:13px;
+	width:1px;
+	height:1px;
 	position:absolute;
-	background:#e5e5e5;
-	border-radius:50%;
+	background:transparent;
+	border-radius:10%;
 	cursor: pointer;
 	box-sizing:content-box;
+    display:none;
 }
 .ares .tp-bullet:hover,
 .ares .tp-bullet.selected {
-	background:#fff;
+	background:transparent;
 }
 .ares .tp-bullet-title {
   position:absolute;
-  color:#888;
-  font-size:12px;
-  padding:0px 10px;
+  color:transparent;
+  font-size:1px;
+  padding:0px 0px;
   font-weight:600;
   right:27px;
   top:-4px;
-  background:#fff;
-  background:rgba(255,255,255,0.75);
+  background:transparent;
+  background:transparent;
   visibility:hidden;
   transform:translateX(-20px);
   -webkit-transform:translateX(-20px);
@@ -148,7 +149,7 @@ border-radius:30px 0px 0px 30px;
 	height: 0px;
 	border-style: solid;
 	border-width: 10px 0 10px 10px;
-	border-color: transparent transparent transparent rgba(255,255,255,0.75);
+	border-color: transparent transparent transparent transparent;
 	content:" ";
     position:absolute;
     right:-10px;
@@ -162,10 +163,10 @@ border-radius:30px 0px 0px 30px;
 }
 
 .ares .tp-bullet.selected:hover .tp-bullet-title {
-    background:#fff;
+    background:transparent;
         }
 .ares .tp-bullet.selected:hover .tp-bullet-title:after {
-  border-color:transparent transparent transparent #fff;
+  border-color:transparent transparent transparent transparent;
 }
 .ares.tp-bullets:hover .tp-bullet-title {
         visibility:hidden;
