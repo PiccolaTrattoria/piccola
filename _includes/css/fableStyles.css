@@ -1249,7 +1249,7 @@ ul.footer-list li a:hover{
 .about-hero-section{
 	width:100%;
 	position:relative;
-	background: url("{{ '/images/storefront-background.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
+	background: url("{{ '/images/salad-bg.jpg' | prepend: site.baseurl }}") 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
