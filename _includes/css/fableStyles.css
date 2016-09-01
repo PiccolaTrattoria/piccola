@@ -1269,7 +1269,7 @@ ul.footer-list li a:hover{
 .gallery-hero-section{
 	width:100%;
 	position:relative;
-	background: url(http://placehold.it/1920x1280) 50% top no-repeat fixed;
+	background: url(images/bg-gallery.jpg) 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
