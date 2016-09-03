@@ -3,10 +3,10 @@
   <channel>
     <title>Piccola Trattoria</title>
     <description></description>
-    <link>http://piccolatrattoria.github.io/piccola/</link>
-    <atom:link href="http://piccolatrattoria.github.io/piccola/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Sep 2016 11:24:00 -0400</pubDate>
-    <lastBuildDate>Thu, 01 Sep 2016 11:24:00 -0400</lastBuildDate>
+    <link>piccolatrattoria.github.io.//</link>
+    <atom:link href="piccolatrattoria.github.io.//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 03 Sep 2016 17:49:33 -0400</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2016 17:49:33 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Sun, 03 Apr 2016 01:45:09 -0400</pubDate>
-        <link>http://piccolatrattoria.github.io/piccola/jekyll/update/2016/04/03/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://piccolatrattoria.github.io/piccola/jekyll/update/2016/04/03/welcome-to-jekyll.html</guid>
+        <link>piccolatrattoria.github.io.//jekyll/update/2016/04/03/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">piccolatrattoria.github.io.//jekyll/update/2016/04/03/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

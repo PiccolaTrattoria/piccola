@@ -962,7 +962,7 @@ iframe{
 /* ========================================================== */
 
 #navbar-collapse-02 li.selected a{
-    color: #F2B410!important;
+    color: black!important;
 }
 
 #navbar-collapse-02 .current a {
@@ -975,7 +975,7 @@ iframe{
 
 .navbar-fixed-top {
 	/*background-color: transparent!important;*/
-	background-color: black;
+	background-color: #eaea39;
 	transition: background-color 1s ease 0s;
 }
 

@@ -7859,7 +7859,7 @@ iframe{
 	width:100%;
 	position:relative;
 	/*background: url(../images/footer-bg.jpg);*/
-	background: url("/piccola/images/footer-bg.jpg");
+	background: url(".//images/footer-bg.jpg");
 	background-position: center center;
     background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -8041,7 +8041,7 @@ ul.footer-list li a:hover{
 .menu-hero-section{
 	width:100%;
 	position:relative;
-	background: url("/piccola/images/mascarpone.jpg") 50% top no-repeat fixed;
+	background: url(".//images/mascarpone.jpg") 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
@@ -8061,7 +8061,7 @@ ul.footer-list li a:hover{
 .about-hero-section{
 	width:100%;
 	position:relative;
-	background: url("/piccola/images/salad-bg.jpg") 50% top no-repeat fixed;
+	background: url(".//images/salad-bg.jpg") 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
