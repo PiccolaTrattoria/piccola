@@ -1,7 +1,7 @@
  var userFeed = new Instafeed({
          get: 'user',
-         userId: '3107725209',
-         clientId: '1e35a2d87bdb4edd87788bdbbdfc278b',
+         userId: '575314096',
+         clientId: '4829a8fff1844e56a493538524786771',
  		resolution: 'thumbnail',
  		limit: '16',
  		template: '<a href="{{link}}" target="_blank"><img src="{{image}}" /></a>'
