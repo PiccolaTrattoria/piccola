@@ -268,7 +268,7 @@ iframe{
 	padding:90px 0;
 }
 .section-piccola-yellow{
-	background-color:#f7fcb6;
+	background-color:white;
 	padding:90px 0;
 }
 
@@ -962,7 +962,7 @@ iframe{
 /* ========================================================== */
 
 #navbar-collapse-02 li.selected a{
-    color: #B8F2FE!important;
+    color: black!important;
 }
 
 #navbar-collapse-02 .current a {
@@ -975,7 +975,7 @@ iframe{
 
 .navbar-fixed-top {
 	/*background-color: transparent!important;*/
-	background-color: #B8F2FE;
+	background-color: #75e0f7;
 	transition: background-color 1s ease 0s;
 }
 
