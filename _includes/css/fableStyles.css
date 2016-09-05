@@ -169,7 +169,7 @@ h2.section-title.no-margin, h3.section-title.no-margin{
 span.comic-text{
 	font-size:70px;
 	line-height:60px;
-	color:#910400;
+	color:white;
 	font-family: 'Lora', serif;
 }
 
@@ -1035,7 +1035,7 @@ iframe{
 }
 
 .navbar-default .navbar-nav > li.social > a:hover i{
-	color: #f8bf2c;
+	color: #910400;
 }
 
 /* ========================================================== */
