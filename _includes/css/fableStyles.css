@@ -86,6 +86,10 @@ p.hero-text:before{
 	margin-left:-25px;
 }
 
+p.content-color{
+    font-family: 'Comfortaa', serif;
+}
+
 a,
 a:hover,
 a:focus {
