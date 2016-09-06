@@ -1008,7 +1008,7 @@ iframe{
 }
 
 .navbar-default .navbar-nav > li > a.purchase:hover{
-	color:#fff!important;
+	color:#8E1B09!important;
 	background-color: transparent;
 	border:2px solid #fff;
 }
@@ -1031,7 +1031,7 @@ iframe{
 .navbar-default .navbar-nav > li.social > a i{
 	font-size:18px;
 	line-height: 22px!important;
-	color: #8E1B09;
+	color: #f8bf2c;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
