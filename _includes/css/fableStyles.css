@@ -966,7 +966,7 @@ iframe{
 /* ========================================================== */
 
 #navbar-collapse-02 li.selected a{
-    color: #FFF799!important;
+    color: black!important;
 }
 
 #navbar-collapse-02 .current a {
@@ -979,11 +979,11 @@ iframe{
 
 .navbar-fixed-top {
 	/*backgroun    d-color: transparent!important;*/
-	background-color: #FFF799;
+	background-color: #fff799;
 	transition: background-color 1s ease 0s;
 }
 
-.navbar-fixed-top.opaque { background-color: rgba(117, 224, 247, 0.9)!important;transition: background-color 1s ease 0s;}
+.navbar-fixed-top.opaque { background-color: rgba(255, 247, 153, 0)!important;transition: background-color 1s ease 0s;}
 
 .navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:hover{
     -webkit-transition: all 0.5s ease;
