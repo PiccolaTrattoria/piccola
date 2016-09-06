@@ -1010,7 +1010,7 @@ iframe{
 .navbar-default .navbar-nav > li > a.purchase:hover{
 	color:#8E1B09!important;
 	background-color: transparent;
-	border:2px solid #fff;
+	border:2px solid #000;
 }
 
 .navbar-default .navbar-nav > li.social > a {
