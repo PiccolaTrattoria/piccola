@@ -45,10 +45,13 @@
             <a href="./menu.html" style="font-family: 'Comfortaa', serif;">Menu</a></li>
 
 
-            <!--<li><a href="reservations.html">Reservations</a></li>-->
+            {% if page.url == '/gallery.html' %}
+            <li class="selected">
+              {% else %}
+            <li>
+              {% endif %}
             <li><a href="./gallery.html" style="font-family: 'Comfortaa', serif;">Gallery</a></li>
-            <!--<li><a href="./contact.html">Contact</a></li>-->
-
+           
 
             <li class="social"><a href="#" class="first"><i class="fa fa-twitter"></i></a></li>
             <li class="social socialOthers"><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -56,7 +59,7 @@
 
 
             <!--Reservation System Will go here!-->
-            <li><a href="mailto:piccolany@aol.com" class="purchase" style="font-family: 'Comfortaa', serif;">Reserve Now!</a></li>
+            <li><a href="./reservation.html" class="purchase" style="font-family: 'Comfortaa', serif;">Reserve Now!</a></li>
 
           </ul>
         </div>
