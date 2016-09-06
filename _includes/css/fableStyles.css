@@ -1376,7 +1376,7 @@ ul.footer-list li a:hover{
 	background: url(http://placehold.it/1920x1280);
 	background-position: center center;
     background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-attachment: scroll;
     background-size: cover;
 	margin: 0 auto;
 	padding:190px 0 140px 0;
