@@ -6898,6 +6898,10 @@ p.hero-text:before{
 	margin-left:-25px;
 }
 
+p.content-color{
+    font-family: 'Comfortaa', serif;
+}
+
 a,
 a:hover,
 a:focus {
@@ -6917,7 +6921,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Comfortaa', sans-serif;
   font-weight: 700;
   line-height: 1.2;
   letter-spacing:2px;
@@ -6981,15 +6985,15 @@ h2.section-title.no-margin, h3.section-title.no-margin{
 span.comic-text{
 	font-size:70px;
 	line-height:60px;
-	color:#F2B410;
-	font-family: 'Lora', serif;
+	color:white;
+	font-family: 'Comfortaa', serif;
 }
 
 span.comic-text2{
 	font-size:80px;
 	line-height:60px;
 	color:#910400;
-	font-family: 'Lora', serif;
+	font-family: 'Comfortaa', serif;
 }
 
 p.section-subtitle{
@@ -7080,7 +7084,7 @@ iframe{
 	padding:90px 0;
 }
 .section-piccola-yellow{
-	background-color:#f8bf2c;
+	background-color:white;
 	padding:90px 0;
 }
 
@@ -7631,7 +7635,7 @@ iframe{
 	color: #fff;
 	background-color: transparent;
 	border-color: #fff;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Comfortaa', sans-serif;
 	font-weight:700;
 	padding:16px 32px;
 	font-size:13px;
@@ -7653,7 +7657,7 @@ iframe{
 	color: #fff;
 	background-color: #F2B410;
 	border-color: #F2B410;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Comfortaa', sans-serif;
 	font-weight:700;
 	padding:18px 32px;
 	font-size:13px;
@@ -7774,11 +7778,11 @@ iframe{
 /* ========================================================== */
 
 #navbar-collapse-02 li.selected a{
-    color: #F2B410!important;
+    color: black!important;
 }
 
 #navbar-collapse-02 .current a {
-    color: #F2B410!important;
+    color: #e0ea67!important;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -7786,12 +7790,12 @@ iframe{
 }
 
 .navbar-fixed-top {
-	/*background-color: transparent!important;*/
-	background-color: black;
+	/*backgroun    d-color: transparent!important;*/
+	background-color: #fff799;
 	transition: background-color 1s ease 0s;
 }
 
-.navbar-fixed-top.opaque { background-color: rgba(17, 17, 17, 0.95)!important;transition: background-color 1s ease 0s;}
+.navbar-fixed-top.opaque { background-color: rgba(255, 247, 153, 0.9)!important;transition: background-color 1s ease 0s;}
 
 .navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:hover{
     -webkit-transition: all 0.5s ease;
@@ -7816,9 +7820,9 @@ iframe{
 }
 
 .navbar-default .navbar-nav > li > a.purchase:hover{
-	color:#fff!important;
+	color:#8E1B09!important;
 	background-color: transparent;
-	border:2px solid #fff;
+	border:2px solid #000;
 }
 
 .navbar-default .navbar-nav > li.social > a {
@@ -7826,8 +7830,8 @@ iframe{
 	padding-right:10px;
 }
 
-.navbar-default .navbar-nav > li.social > a.first {
-	border-left:1px solid rgba(255, 255, 255, 0.7);
+    .navbar-default .navbar-nav > li.social > a.first {
+	border-left:1px solid rgba(0, 0,   0, 0);
 	padding-left:30px;
 	margin-left:15px;
 }
@@ -7839,7 +7843,7 @@ iframe{
 .navbar-default .navbar-nav > li.social > a i{
 	font-size:18px;
 	line-height: 22px!important;
-	color: #fff;
+	color: #f8bf2c;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -7847,7 +7851,7 @@ iframe{
 }
 
 .navbar-default .navbar-nav > li.social > a:hover i{
-	color: #f8bf2c;
+	color: #910400;
 }
 
 /* ========================================================== */
@@ -7862,7 +7866,7 @@ iframe{
 	background: url(".//images/footer-bg.jpg");
 	background-position: center center;
     background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-attachment: scroll;
     background-size: cover;
 	margin: 0 auto;
 }
@@ -8184,7 +8188,7 @@ ul.footer-list li a:hover{
 	background: url(http://placehold.it/1920x1280);
 	background-position: center center;
     background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-attachment: scroll;
     background-size: cover;
 	margin: 0 auto;
 	padding:190px 0 140px 0;
@@ -8263,7 +8267,7 @@ ul.footer-list li a:hover{
 	font-size: 18px;
     line-height: 24px;
     vertical-align: bottom;
-    font-family: 'Lora', serif;
+    font-family: 'Comfortaa', serif;
     font-weight: 700;
     color: #FFF;
     float: left;
@@ -8368,7 +8372,7 @@ h2.menu-section-title::after{
 	font-size: 18px;
     line-height: 22px;
     vertical-align: bottom;
-    font-family: 'Lora', serif;
+    font-family: 'Comfortaa', serif;
     font-weight: 700;
     float: left;
     letter-spacing: 2px;
@@ -8447,7 +8451,7 @@ h3.blog-title{
 }
 
 h3.blog-title a{
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Comfortaa', sans-serif;
     font-weight: 700;
 	font-size:21px;
 	color:#252525;
@@ -11466,7 +11470,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         padding-left: 6px;
     }
     .navbar-default {
-        background-color: black;
+        background-color: #FFF799;
     }
 
     /*.navbar-brand > img {*/
