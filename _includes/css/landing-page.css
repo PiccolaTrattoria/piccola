@@ -32,7 +32,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url("{{ 'piccola/images/storefront-background.jpg' | prepend: site.baseurl }}") no-repeat center center;
+    background: url("{{ './piccola/images/storefront-background.jpg' | prepend: site.baseurl }}") no-repeat center center;
     background-size: cover;
 }
 
