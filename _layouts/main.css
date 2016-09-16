@@ -3,6 +3,7 @@
 {% include css/animate.css %}
 {% include css/nav.css %}
 {% include css/menu.css %}
+{% include css/landing-page.css %}
 {% include css/style-magnific-popup.css %}
 {% include css/revolution/css/navigation.css %}
 {% include css/revolution/css/settings.css %}
@@ -10,6 +11,7 @@
 {% include css/fonts/font-awesome.min.css %}
 {% include css/fonts/icons-helper.css %}
 {% include css/fonts/icons-main.css %}
+
 
 
 
