@@ -19,6 +19,10 @@
 .navbar-default .navbar-bav > li > a {
     color:#8E1B09;
 }
+
+.navbar-default > li > a {
+    color:#8E1B09;
+}
 .navbar-brand > img {
     margin-top: -23px;
 }
