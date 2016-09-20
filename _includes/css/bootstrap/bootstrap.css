@@ -4548,7 +4548,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-brand {
   margin-top:12px;
-  color: #fff;
+  color: #8E1B09;
   font-size: 48px;
   font-family: 'Tangerine', cursive;
 }
@@ -4561,7 +4561,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #F2B410;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #fff;
+  color: #8E1B09;
   font-size: 13px;
   line-height:22px;
   text-transform:uppercase;
