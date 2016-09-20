@@ -969,6 +969,10 @@ iframe{
     color:#8E1B09;
 }
 
+.navbar-collapse-02 > li > a {
+    color:#8E1B09;
+}
+
 #navbar-collapse-02 li.selected a{
     color: black!important;
 }
