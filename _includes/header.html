@@ -36,6 +36,13 @@
             <li>
               {% endif %}
             <a href="./about.html" style="font-family: 'Comfortaa', serif;">About Us</a></li>
+              
+            {% if page.url == '/reviews.html' %}
+            <li class="selected">
+              {% else %}
+            <li>
+              {% endif %}
+            <a href="./reviews.html" style="font-family: 'Comfortaa', serif;">Reviews</a></li>
 
             {% if page.url == '/menu.html' %}
             <li class="selected">
